@@ -32,9 +32,11 @@ This project analyzes Spotify song popularity by examining the relationship betw
 To run the interactive app locally:
 
 1. Make sure you have Streamlit installed:
+   
    pip install streamlit
    
 2. Run the app in your terminal
+   
    streamlit run spotify_predictor_app.py  
 
 3. Adjust audio feature sliders and view the predicted popularity score
