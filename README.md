@@ -39,6 +39,6 @@ To run the interactive app locally:
    
    streamlit run spotify_predictor_app.py  
 
-3. Adjust audio feature sliders and view the predicted popularity score
+3. Adjust audio feature sliders and view the predicted popularity score.
 
 
