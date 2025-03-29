@@ -35,7 +35,7 @@ To run the interactive app locally:
    
    pip install streamlit
    
-2. Run the app in your terminal
+2. Run the app in your terminal:
    
    streamlit run spotify_predictor_app.py  
 
