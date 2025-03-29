@@ -1,5 +1,5 @@
 # Spotify Data Analysis  
-Exploring factors that influence song popularity on Spotify using Python, Pandas, Matplotlib, and Seaborn.  
+Exploring factors that influence song popularity on Spotify using Python, Pandas, Matplotlib, Seaborn, and machine learning.
 
 ## Overview  
 This project analyzes Spotify song popularity by examining the relationship between features such as tempo, energy, danceability, and loudness. It also includes a machine learning model to predict a song’s popularity and an interactive Streamlit app for user input and experimentation.
