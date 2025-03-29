@@ -41,4 +41,16 @@ To run the interactive app locally:
 
 3. Adjust audio feature sliders and view the predicted popularity score.
 
+## Audio Feature Ranges (Used in ML Model)
 
+| Feature           | Description                                                   | Typical Range      |
+|-------------------|---------------------------------------------------------------|---------------------|
+| **Danceability**  | How suitable a track is for dancing (0 = least, 1 = most)     | 0.0 – 1.0           |
+| **Energy**        | Intensity and activity of a track                             | 0.0 – 1.0           |
+| **Loudness**      | Overall loudness measured in decibels (dB)                    | -60 dB – 0 dB       |
+| **Speechiness**   | Presence of spoken words in a track                           | 0.0 – 1.0           |
+| **Acousticness**  | Confidence that a track is acoustic                           | 0.0 – 1.0           |
+| **Instrumentalness** | Predicts if a track is instrumental                        | 0.0 – 1.0           |
+| **Liveness**      | Presence of audience or live setting                          | 0.0 – 1.0           |
+| **Valence**       | Positivity of the musical mood                                | 0.0 – 1.0           |
+| **Tempo**         | Speed of the song measured in BPM                             | 40 – 220 BPM        |
