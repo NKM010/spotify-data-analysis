@@ -25,6 +25,3 @@ This project analyzes Spotify song popularity by exploring the relationship betw
 2. Open it in Jupyter Notebook or Google Colab.  
 3. Run the code to explore insights and visualizations.  
 
-## Next Steps  
-- Improving this project with machine learning to predict song popularity.  
-- Building an interactive dashboard (currently in progress).  
